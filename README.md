@@ -22,7 +22,24 @@ Awesome websites I've come across in my studies and development.
 ### <span id="portfolio">Portfolio</span>
 ###### Developer
 - [Orteil's homepage](https://orteil.dashnet.org/)
+- [Alle](https://sava.io/)
+- [Jet Holt](https://jetholt.com/)
+- [Lynn Fisher](https://lynnandtonic.com/)
+- [Patrick Kage](https://ka.ge/)
+- [Gfolio](https://gfolio.enjeck.com/)
+- [Iuri de Paula](https://iuri.is/)
+- [Albino Tonnina](https://albinotonnina.com/)
+- [Guillaume Gouessan](https://guillaumegouessan.com/)
+- [Brittany Chiang](https://brittanychiang.com/)
+- [Alex West](https://www.alexwest.co/)
+- [Alexander Kallaway](http://ka11away.com/)
+- [Hakim El Hattab](https://hakim.se/)
+- [Desi Quintans](https://www.desiquintans.com/)
+- [Deepnight Games](https://deepnight.net)
 ### <span id="tool">Tool</span>
+###### ASCII
+- [Text to ASCII Art Generator (TAAG)](http://www.patorjk.com/software/taag/)
+- [Arial ASCII Art Gallery](http://patorjk.com/arial-ascii-art/)
 #### <span id="compiler">Compiler</span>
 #### <span id="CSS">CSS</span>
 #### <span id="generator">Generator</span>
