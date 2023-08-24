@@ -19,7 +19,7 @@ Awesome websites I've come across in my studies and development.
 
 
 
-### <span id="portfolio">Portfolio</span>
+### <span id="portfolio" style="background: #386FA4; padding:3px 10px 3px 10px; color: white">> Portfolio</span>
 
 ###### Developer
 - [Orteil's homepage](https://orteil.dashnet.org/)
@@ -38,21 +38,21 @@ Awesome websites I've come across in my studies and development.
 - [Desi Quintans](https://www.desiquintans.com/)
 - [Deepnight Games](https://deepnight.net)
 
-### <span id="tool">Tool</span>
+### <span id="tool" style="background: #386FA4; padding:3px 3px 3px 10px; color: white">> Tool</span>
 
-###### ASCII
+#### <span id="compiler" style="background: #386FA4; padding:3px 3px 3px 40px; color: white">>> Compiler</span>
+#### <span id="CSS" style="background: #386FA4; padding:3px 3px 3px 40px; color: white">>> CSS</span>
+#### <span id="generator" style="background: #386FA4; padding:3px 3px 3px 40px; color: white">>> Generator</span>
+######  ASCII
 - [Text to ASCII Art Generator (TAAG)](http://www.patorjk.com/software/taag/)
 - [Arial ASCII Art Gallery](http://patorjk.com/arial-ascii-art/)
-#### <span id="compiler">Compiler</span>
-#### <span id="CSS">CSS</span>
-#### <span id="generator">Generator</span>
 
-### <span id="resource">Resource</span>
+### <span id="resource" style="background: #386FA4; padding:3px 3px 3px 10px; color: white">> Resource</span>
 
-#### <span id="GIS">GIS</span>
-#### <span id="book">Book</span>
+#### <span id="GIS" style="background: #386FA4; padding:3px 3px 3px 40px; color: white">>> GIS</span>
+#### <span id="book" style="background: #386FA4; padding:3px 3px 3px 40px; color: white">>> Book</span>
 
-### <span id="funnny">Funny</span>
+### <span id="funnny" style="background: #386FA4; padding:3px 3px 3px 10px; color: white">> Funny</span>
 
-### <span id="miscellanea">Miscellanea</span>
+### <span id="miscellanea" style="background: #386FA4; padding:3px 3px 3px 10px; color: white">> Miscellanea</span>
 
