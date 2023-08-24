@@ -20,6 +20,7 @@ Awesome websites I've come across in my studies and development.
 
 
 ### <span id="portfolio">Portfolio</span>
+
 ###### Developer
 - [Orteil's homepage](https://orteil.dashnet.org/)
 - [Alle](https://sava.io/)
@@ -36,15 +37,22 @@ Awesome websites I've come across in my studies and development.
 - [Hakim El Hattab](https://hakim.se/)
 - [Desi Quintans](https://www.desiquintans.com/)
 - [Deepnight Games](https://deepnight.net)
+
 ### <span id="tool">Tool</span>
+
 ###### ASCII
 - [Text to ASCII Art Generator (TAAG)](http://www.patorjk.com/software/taag/)
 - [Arial ASCII Art Gallery](http://patorjk.com/arial-ascii-art/)
 #### <span id="compiler">Compiler</span>
 #### <span id="CSS">CSS</span>
 #### <span id="generator">Generator</span>
+
 ### <span id="resource">Resource</span>
+
 #### <span id="GIS">GIS</span>
 #### <span id="book">Book</span>
+
 ### <span id="funnny">Funny</span>
+
 ### <span id="miscellanea">Miscellanea</span>
+
