@@ -3,7 +3,7 @@
 
 Awesome websites I've come across in my studies and development.
 
-### Content
+# Content
 
 [![Static Badge](https://img.shields.io/badge/%E2%94%9C%E2%94%80%E2%94%80%20-133C55?style=flat-square)![Static Badge](https://img.shields.io/badge/Portfolio-386FA4?style=flat-square)](#portfolio)  
 [![Static Badge](https://img.shields.io/badge/%E2%94%9C%E2%94%80%E2%94%80%20-133C55?style=flat-square)![Static Badge](https://img.shields.io/badge/Tool-386FA4?style=flat-square)](#tool)    
@@ -19,12 +19,8 @@ Awesome websites I've come across in my studies and development.
 
 
 
-<<<<<<< HEAD
-### <span id="portfolio" style="background: #386FA4; padding:3px 10px 3px 10px; color: white">> Portfolio</span>
+## <span id="portfolio">Portfolio</span>
 
-=======
-### <span id="portfolio">Portfolio</span>
->>>>>>> parent of 419f8eb (Update README.md)
 ###### Developer
 - [Orteil's homepage](https://orteil.dashnet.org/)
 - [Alle](https://sava.io/)
@@ -61,17 +57,21 @@ Awesome websites I've come across in my studies and development.
 
 ### <span id="miscellanea" style="background: #386FA4; padding:3px 3px 3px 10px; color: white">> Miscellanea</span>
 
-=======
 ### <span id="tool">Tool</span>
+
 ###### ASCII
 - [Text to ASCII Art Generator (TAAG)](http://www.patorjk.com/software/taag/)
 - [Arial ASCII Art Gallery](http://patorjk.com/arial-ascii-art/)
 #### <span id="compiler">Compiler</span>
 #### <span id="CSS">CSS</span>
 #### <span id="generator">Generator</span>
+
 ### <span id="resource">Resource</span>
+
 #### <span id="GIS">GIS</span>
 #### <span id="book">Book</span>
+
 ### <span id="funnny">Funny</span>
+
 ### <span id="miscellanea">Miscellanea</span>
->>>>>>> parent of 419f8eb (Update README.md)
+
