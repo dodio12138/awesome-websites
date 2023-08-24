@@ -19,8 +19,12 @@ Awesome websites I've come across in my studies and development.
 
 
 
+<<<<<<< HEAD
 ### <span id="portfolio" style="background: #386FA4; padding:3px 10px 3px 10px; color: white">> Portfolio</span>
 
+=======
+### <span id="portfolio">Portfolio</span>
+>>>>>>> parent of 419f8eb (Update README.md)
 ###### Developer
 - [Orteil's homepage](https://orteil.dashnet.org/)
 - [Alle](https://sava.io/)
@@ -37,6 +41,7 @@ Awesome websites I've come across in my studies and development.
 - [Hakim El Hattab](https://hakim.se/)
 - [Desi Quintans](https://www.desiquintans.com/)
 - [Deepnight Games](https://deepnight.net)
+<<<<<<< HEAD
 
 ### <span id="tool" style="background: #386FA4; padding:3px 3px 3px 10px; color: white">> Tool</span>
 
@@ -56,3 +61,17 @@ Awesome websites I've come across in my studies and development.
 
 ### <span id="miscellanea" style="background: #386FA4; padding:3px 3px 3px 10px; color: white">> Miscellanea</span>
 
+=======
+### <span id="tool">Tool</span>
+###### ASCII
+- [Text to ASCII Art Generator (TAAG)](http://www.patorjk.com/software/taag/)
+- [Arial ASCII Art Gallery](http://patorjk.com/arial-ascii-art/)
+#### <span id="compiler">Compiler</span>
+#### <span id="CSS">CSS</span>
+#### <span id="generator">Generator</span>
+### <span id="resource">Resource</span>
+#### <span id="GIS">GIS</span>
+#### <span id="book">Book</span>
+### <span id="funnny">Funny</span>
+### <span id="miscellanea">Miscellanea</span>
+>>>>>>> parent of 419f8eb (Update README.md)
